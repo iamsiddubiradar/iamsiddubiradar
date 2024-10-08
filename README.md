@@ -1,7 +1,7 @@
-<h1 align="center">Siddu Biradar</h1>
+<h1 align="center">Siddu Biradar</h1><hr>
 
 - 🌱 I’m currently learning **Javascript**
-- 
+
 - Development of E- Commerce Website [E-commerce Project](https://iamsiddubiradar.github.io/Simple-E-commerce-Page/)
 
 - Development of Calculator [https://iamsiddubiradar.github.io/simple-calculator-for-beginner/](https://iamsiddubiradar.github.io/simple-calculator-for-beginner/)
