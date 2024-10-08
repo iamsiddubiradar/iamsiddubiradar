@@ -1,5 +1,4 @@
-<h1 align="center">Siddu Biradar</h1><hr>
-
+<h1 align="center">Siddu Biradar</h1>
 - 🌱 I’m currently learning **Javascript**
 
 - Development of E- Commerce Website [E-commerce Project](https://iamsiddubiradar.github.io/Simple-E-commerce-Page/)
